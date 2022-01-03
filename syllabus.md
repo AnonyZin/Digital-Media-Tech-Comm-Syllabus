@@ -1,4 +1,4 @@
-# ENG 6826: Professionalization for Texts & Technology
+# ENG 6826: Professionalization for T&T
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [ENG 6826: Professionalization for Texts & Technology](#eng-6826-professionalization-for-texts--technology)
+- [ENG 6826: Professionalization for T&T](#eng-6826-professionalization-for-tt)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
@@ -68,7 +68,7 @@ In addition, each module includes samples and additional recommended readings.
 
 This course has no formal grading: as a zero-credit course, it relies on milestone completion only. Students will complete and submit for feedback:
 
-- Academic Activity Verification 
+- Academic Activity Verification
 - Draft CV
 - Research Statement
 - Teaching Statement
