@@ -34,6 +34,8 @@
 
 ## Course Description
 
+![Professionalization](professionalization.png)
+
 This course serves as a resource in building professional skills and knowledge for navigating the academic and alt-ac job market, preparing a portfolio of work, and pursuing academic publication. As it is a 0-credit course, there are no assessment-focused grades: the four modules target documents, marked for completion only, with an emphasis on opportunities for feedback and reflection.
 
 Each module will consist of:
@@ -87,6 +89,10 @@ The course has no synchronous meeting requirements: however, students are encour
 ### Module One: Defining Your Goals
 
 - Read *AJSH*: Intro & I
+- Read: Jason Heppler, [Constructing a Digital Humanists' C.V.](https://jasonheppler.org/2011/08/04/constructing-a-digital-humanists-cv/)
+- Read: Karen Kelsky, [Rules of the Academic CV](https://theprofessorisin.com/2016/08/19/dr-karens-rules-of-the-academic-cv/)
+- Read: Alyssa, [Mindmapping(ish) to See Where You Fit](https://www.insidehighered.com/blogs/gradhacker/mindmappingish-see-where-you-fit)
+- Explore: [The Academic Job Market Support Network](https://hcommons.org/groups/academic-job-market-support-network/)
 - Complete Academic Activity Verification (due January 14th)
 - Complete Draft CV (due February 6th)
 - Live workshop: date pending
@@ -94,18 +100,27 @@ The course has no synchronous meeting requirements: however, students are encour
 ### Module Two: Explaining Your Research
 
 - Read *AJSH*: II & III
+- Read: Brandon Walsh and Amanda Visconti, [How We Talk and Write about DH Jobs](https://scholarslab.lib.virginia.edu/blog/dh-cover-letters//)
+- Read: Cheryl E. Ball, [Research Statements](https://www.insidehighered.com/advice/2014/10/06/essay-how-write-research-statements-applying-academic-jobs)
+- Explore: [Digital Humanities and the Job Market](https://github.com/m-n-hannah/Digital-Humanities-Job-Market/blob/master/index.md)
 - Complete Research Statement (due March 6th)
 - Live workshop: date pending
 
 ### Module Three: Contemplating Pedagogy
 
-- Read *AJSH*: IV & V
+- Read: *AJSH*: IV & V
+- Watch: Katina Rogers, [Thriving In and Beyond the Academy](https://www.youtube.com/watch?v=RMI193SFau4)
+- Read: [How to Write a Teaching Statement that Sings](https://dornsife.usc.edu/assets/sites/1244/docs/How_to_Write_a_Teaching_Statement_that_Sings.pdf)
+- Explore: Sean Michael Morris, Lucy Rai, and Karen Littleton, [Voices of Practice](https://voicesofpractice.pressbooks.com/)
 - Complete Teaching Statement (due April 10th)
 - Live workshop: date pending
 
 ### Module Four: Starting Your Search
 
 - Read *AJSH*: VI & VII
+- Read: Beth Duckles, [What I Wish I had Known Before Leaving Academia](https://openpostac.org/blog/what-i-wish-i-had-known-before-leaving-academia/)
+- Explore: [Imagine PhD Job Families](https://www.imaginephd.com/job-families)
+- Explore: [The Versatile PhD](https://versatilephd.com/phd-career-finder/)
 - Complete Cover Letter (due May 1st)
 - Live workshop: date pending
 
