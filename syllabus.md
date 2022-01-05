@@ -17,10 +17,10 @@
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Asynchronous Online Course Structure](#asynchronous-online-course-structure)
   - [Module Schedule](#module-schedule)
-    - [Module One: Defining Your Goals](#module-one-defining-your-goals)
-    - [Module Two: Explaining Your Research](#module-two-explaining-your-research)
-    - [Module Three: Contemplating Pedagogy](#module-three-contemplating-pedagogy)
-    - [Module Four: Starting Your Search](#module-four-starting-your-search)
+    - [Module One: Defining Your Goals (Opens 1/10)](#module-one-defining-your-goals-opens-110)
+    - [Module Two: Explaining Your Research (Opens 2/7)](#module-two-explaining-your-research-opens-27)
+    - [Module Three: Contemplating Pedagogy (Opens 3/7)](#module-three-contemplating-pedagogy-opens-37)
+    - [Module Four: Starting Your Search (Opens 4/11)](#module-four-starting-your-search-opens-411)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -86,7 +86,7 @@ The course has no synchronous meeting requirements: however, students are encour
 
 ## Module Schedule
 
-### Module One: Defining Your Goals
+### Module One: Defining Your Goals (Opens 1/10)
 
 - Read *AJSH*: Intro & I
 - Read: Jason Heppler, [Constructing a Digital Humanists' C.V.](https://jasonheppler.org/2011/08/04/constructing-a-digital-humanists-cv/)
@@ -97,7 +97,7 @@ The course has no synchronous meeting requirements: however, students are encour
 - Complete Draft CV (due February 6th)
 - Live workshop: date pending
 
-### Module Two: Explaining Your Research
+### Module Two: Explaining Your Research (Opens 2/7)
 
 - Read *AJSH*: II & III
 - Read: Brandon Walsh and Amanda Visconti, [How We Talk and Write about DH Jobs](https://scholarslab.lib.virginia.edu/blog/dh-cover-letters//)
@@ -106,7 +106,7 @@ The course has no synchronous meeting requirements: however, students are encour
 - Complete Research Statement (due March 6th)
 - Live workshop: date pending
 
-### Module Three: Contemplating Pedagogy
+### Module Three: Contemplating Pedagogy (Opens 3/7)
 
 - Read: *AJSH*: IV & V
 - Watch: Katina Rogers, [Thriving In and Beyond the Academy](https://www.youtube.com/watch?v=RMI193SFau4)
@@ -115,7 +115,7 @@ The course has no synchronous meeting requirements: however, students are encour
 - Complete Teaching Statement (due April 10th)
 - Live workshop: date pending
 
-### Module Four: Starting Your Search
+### Module Four: Starting Your Search (Opens 4/11)
 
 - Read *AJSH*: VI & VII
 - Read: Beth Duckles, [What I Wish I had Known Before Leaving Academia](https://openpostac.org/blog/what-i-wish-i-had-known-before-leaving-academia/)
