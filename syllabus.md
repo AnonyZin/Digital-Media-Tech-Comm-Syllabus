@@ -7,6 +7,9 @@
   
 ---
 
+- **Credit Hours:** 0
+- **Prerequisites:** None
+
 ## Contents
 
 - [ENG 6826: Professionalization for T&T](#eng-6826-professionalization-for-tt)
