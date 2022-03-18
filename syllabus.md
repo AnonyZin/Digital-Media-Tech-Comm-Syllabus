@@ -1,6 +1,6 @@
-# ENG 6826: Professionalization for T&T
+# DMTC 0123: Undergraduate T&T Course
 
-- **Instructor:** Dr. Anastasia Salter
+- **Instructor:** Derek, Ryu, Ali, Traci
 - **Email:** anastasia@ucf.edu
 - **Office:** Zoom; Tuesday 12:00 - 3:00 PM
 - **Course Meeting:** Asynchronous Online
@@ -12,7 +12,7 @@
 
 ## Contents
 
-- [ENG 6826: Professionalization for T&T](#eng-6826-professionalization-for-tt)
+- [DMTC 0123: Undergraduate T&T Course](#dmtc-0123-undergraduate-tt)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
